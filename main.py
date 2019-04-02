@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[10]:
+#ref: https://www.pyimagesearch.com/2016/05/23/opencv-with-tkinter/
 
 
 import cv2

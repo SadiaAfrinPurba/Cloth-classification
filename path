@@ -1,0 +1,6 @@
+/media/afrin/56b38a46-6fa2-428b-9e07-0da6d7ac44cb/afrin/Documents/Aust/4.2/LAB/DIP/Project/demo/training
+/media/afrin/56b38a46-6fa2-428b-9e07-0da6d7ac44cb/afrin/Documents/Aust/4.2/LAB/DIP/Project/demo/test
+
+
+
+python3.7 Cloth_Classification.py --training /media/afrin/56b38a46-6fa2-428b-9e07-0da6d7ac44cb/afrin/Documents/Aust/4.2/LAB/DIP/Project/demo/training --test /media/afrin/56b38a46-6fa2-428b-9e07-0da6d7ac44cb/afrin/Documents/Aust/4.2/LAB/DIP/Project/demo/test
